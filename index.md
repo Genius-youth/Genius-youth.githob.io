@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## 千里之足 始于足下
 
 这里是测试网页模板
 
@@ -8,7 +8,7 @@
 
 ### 标题{为西大学生服务}
 
-测试
+此栏目为测试代码区域
 ```标题
 Syntax highlighted code block
 
