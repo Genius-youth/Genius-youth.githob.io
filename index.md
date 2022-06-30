@@ -4,11 +4,12 @@
 
 如想学习搭建网站可以联系qq：2295247559
 
-### Markdown
+该网站暂时测试，以后可能发布与考试有关的资料
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 标题{为西大学生服务}
 
-```markdown
+测试
+```标题
 Syntax highlighted code block
 
 # Header 1
@@ -26,12 +27,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+测试
 
-### Jekyll Themes
+### 标题
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Genius-youth/Genius-youth.githob.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+内容
+### 标题
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+内容
