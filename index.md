@@ -1,8 +1,8 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Genius-youth/Genius-youth.githob.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+这里是测试网页模板
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+如想学习搭建网站可以联系qq：2295247559
 
 ### Markdown
 
