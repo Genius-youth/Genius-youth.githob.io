@@ -10,21 +10,11 @@
 
 此栏目为测试代码区域
 ```标题
-Syntax highlighted code block
+代码标题
 
-# Header 1
-## Header 2
-### Header 3
+正文
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+结尾
 ```
 
 测试
